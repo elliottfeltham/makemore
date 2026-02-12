@@ -1,2 +1,2 @@
 # makemore
-Andrej Karpathy's makemore language model
+A learning project building Andrej Karpathy's makemore language model
